@@ -1,10 +1,12 @@
-#Updated April 12th, 2022
+#Updated April 21st, 2022
 #Appodeal
 appodeal.com, 68776, RESELLER
 #BidMachine
 bidmachine.io, 68776, RESELLER
 #AdMob
 google.com, pub-7704709141093550, DIRECT, f08c47fec0942fa0
+#Notsy
+google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, Business ID, RESELLER, c3e20eee3f780d68
@@ -127,6 +129,7 @@ groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
 districtm.io, 101760, RESELLER, 3fd707be9c4527c3
 loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 161546, RESELLER, 5d62403b186f2ace
 #Smaato
 smaato.com, 1100015281, RESELLER, 07bcf65f187117b4
 smaato.com, 1100042017, RESELLER, 07bcf65f187117b4
@@ -460,8 +463,8 @@ rhythmone.com, 3881266972, RESELLER, a670c89d4a324e47
 sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
 yieldmo.com, 2899597854118977801, RESELLER
 #Unruly
-rhythmone.com, 3634565696, RESELLER, a670c89d4a324e47
-video.unrulymedia.com, 3634565696, RESELLER
+rhythmone.com, 3634565696, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 3634565696, RESELLER
 indexexchange.com, 182257, RESELLER
 appnexus.com, 6849, RESELLER
 rubiconproject.com, 15268, RESELLER
@@ -482,7 +485,7 @@ adcolony.com, 382d79cd1387e603, RESELLER, 1ad675c9de6b5176
 rhythmone.com, 3218195319, RESELLER, a670c89d4a324e47
 betweendigital.com, 43843, RESELLER
 betweendigital.com, 43092, RESELLER
-onetag.com, 74ea58ae86fd4b0, DIRECT
+onetag.com, 74ea58ae86fd4b0, DIRECT
 admixer.co.kr, 1287, RESELLER
 admixer.net, 0072fb58-999b-445e-9a9b-3fc2a7194277, RESELLER
 admixer.net, de2ae535-59eb-4f0b-95e3-89f821933d47, RESELLER
