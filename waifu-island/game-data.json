@@ -1,7 +1,7 @@
 {
-    "Name" : "Waifu Island",
-    "Description" : "?",
-    "Version" : "1.3",
+    "Name" : "Mobile App Name",
+    "Description" : "Update Description",
+    "Version" : "1.0",
     "Url" : "https://www.google.com",
     "MandatoryUpdate" : "false"
 }
