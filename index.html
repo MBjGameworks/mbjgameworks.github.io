@@ -1,15 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>MBj Gameworks</title>
-        <link rel="stylesheet" href="css/style.css">
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-    </head>
-    <body>
+<head>
+    <title>MBj Gameworks</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+
+    <header>
         <div class="wrapper">
             <h1>MBj Gameworks</h1>
-            <p>Mobile App Developers</p>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#games">Games</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
         </div>
-    </body>
+    </header>
+
+    <section id="home">
+        <div class="wrapper">
+            <h2>Welcome to MBj Gameworks</h2>
+            <p>Your destination for innovative and exciting mobile games!</p>
+        </div>
+    </section>
+
+    <section id="games">
+        <div class="wrapper">
+            <h2>Our Games</h2>
+            <div class="game">
+                <img src="images/game1.jpg" alt="Game 1">
+                <h3>Game 1 Title</h3>
+                <p>Description of Game 1.</p>
+            </div>
+            <div class="game">
+                <img src="images/game2.jpg" alt="Game 2">
+                <h3>Game 2 Title</h3>
+                <p>Description of Game 2.</p>
+            </div>
+            <!-- Add more game entries as needed -->
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="wrapper">
+            <h2>Contact Us</h2>
+            <p>Have questions or want to collaborate? Reach out to us!</p>
+            <form action="submit_form.php" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2023 MBj Gameworks. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
 </html>
